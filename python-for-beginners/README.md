@@ -1,36 +1,37 @@
-# Python for beginners
+# Python para iniciantes
 
-## Overview
+## Visão Geral
 
-Getting started with a new environment can be challenging, especially when you literally don't even speak the language. Fortunately, we created a set of videos to help get you up and running with the language, so you can focus on the task at hand - learning how to create applications using Python.
+Começar com uma nova linguagem de programação pode ser desafiador. Felizmente, criamos um série de vídeos para lhe ajudar a trabalhar com a linguagem,  para que você possa se concentrar na tarefa em questão - aprendendo a criar aplicativos usando o Python.
 
-We don't dig into specific frameworks, but we help get you ready to start exploring on your own. We'll show you the core Python concepts you'll need as you begin your journey into web development on popular frameworks such as [Django](https://djangoproject.com) and [Flask](https://flask.palletsprojects.com/en/1.1.x/), use AI services such as [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/), or even machine learning.
+Não trabalhamos com frameworks específicos, mas ajudamos você a se preparar para começar a explorar por conta própria. Mostraremos os principais conceitos de Python que você precisará ao iniciar sua jornada no desenvolvimento da Web em frameworks populares como [Django](https://djangoproject.com) e [Flask](https://flask.palletsprojects.com/en/1.1.x/), usar serviços de Inteligência Artificial como os [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/), ou trabalhar com Machine Learning (Aprendizagem de Máquina).
 
-### What you'll learn
+### O que você aprenderá
 
-- The basics of Python
-- Starting a project
-- Common syntax
-- Package management
+- O básico do Python
+- Iniciando um projeto
+- Sintaxe comum
+- Gerenciamento de pacotes
 
-### What we don't cover
+### O que não cobrimos
 
-- Class design and inheritance
-- Asynchronous programming
-- Basics of programming
+- Design e herança de classe
+- Programação assíncrona
+- Noções básicas de programação
 
-## Prerequisites
+## Pré-requisitos
 
-- [An understanding of Git](https://git-scm.com/book/en/v1/Getting-Started)
-- Light experience with another programming language, such as [JavaScript](https://www.edx.org/course/javascript-introduction)
+- [Entendimento de Git e GitHub](https://git-scm.com/book/en/v1/Getting-Started)
+- Conhecimento básico em alguma outra linguagem, como [JavaScript](https://www.edx.org/course/javascript-introduction)
 
-## Next steps
+## Próximos passos
 
-As the goal of this course is to help get you up to speed on Python so you can work through a quick start, the next step after completing the videos is to follow a tutorial! Here's a few of our favorites:
+Como o objetivo deste curso é ajudar você a acelerar seus conhecimentos em Python rapidamente, o próximo passo após a conclusão dos vídeos é seguir um tutorial! 
+Aqui estão alguns dos nossos favoritos:
 
-- [Quickstart: Detect faces in an image using the Face REST API and Python](https://docs.microsoft.com/azure/cognitive-services/face/QuickStarts/Python?WT.mc_id=python-c9-niner?WT.mc_id=python-c9-niner)
-- [Quickstart: Analyze a local image using the Computer Vision REST API and Python](https://docs.microsoft.com/azure/cognitive-services/computer-vision/quickstarts/python-disk?WT.mc_id=python-c9-niner?WT.mc_id=python-c9-niner)
-- [Quickstart: Using the Python REST API to call the Text Analytics Cognitive Service](https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/quickstarts/python?WT.mc_id=python-c9-niner?WT.mc_id=python-c9-niner)
-- [Tutorial: Build a Flask app with Azure Cognitive Services](https://docs.microsoft.com/azure/cognitive-services/translator/tutorial-build-flask-app-translation-synthesis?WT.mc_id=python-c9-niner)
-- [Flask tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask?WT.mc_id=python-c9-niner)
-- [Django tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-django?WT.mc_id=python-c9-niner)
+- [Início Rápido: Detectar rostos em uma imagem com a API REST de Detecção Facial e Python](https://docs.microsoft.com/azure/cognitive-services/face/QuickStarts/Python?WT.mc_id=python-latam-cyzanon)
+- [Início Rápido: Analisar uma imagem local usando a API REST da Pesquisa Visual Computacional e o Python](https://docs.microsoft.com/azure/cognitive-services/computer-vision/quickstarts/python-disk?WT.mc_id=python-latam-cyzanon)
+- [Início Rápido: Uso da API REST do Python para chamar o Serviço Cognitivo de Análise de Texto](https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/quickstarts/python?WT.mc_id=python-latam-cyzanon)
+- [Tutorial: Criar um aplicativo Flask com os serviços Cognitivos do Azure](https://docs.microsoft.com/azure/cognitive-services/translator/tutorial-build-flask-app-translation-synthesis?WT.mc_id=python-latam-cyzanon)
+- [Tutorial: Flask no Visual Studio Code (inglês)](https://code.visualstudio.com/docs/python/tutorial-flask?WT.mc_id=python-latam-cyzanon)
+- [Tutorial: Django no Visual Studio Code (inglês)](https://code.visualstudio.com/docs/python/tutorial-django?WT.mc_id=python-latam-cyzanon)
