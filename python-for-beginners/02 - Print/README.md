@@ -1,22 +1,22 @@
 # print
 
-The print function allows you to send output to the terminal
+A função de print permite enviar saída para o terminal
 
 - [print](https://docs.python.org/3/library/functions.html#print)
 
-Strings can be enclosed in single quotes or double quotes
+As strings podem ser colocadas entre aspas simples ou duplas
 
-- "this is a string"
-- 'this is also a string'
+- "isso é uma string"
+- 'isso também é uma string'
 
-The input function allows you to prompt a user for a value
+A função de input permite solicitar um valor ao usuário
 
 - [input](https://docs.python.org/3/library/functions.html#input)
   
-Parameters:
+Parâmetros:
 
-- `prompt`: Message to display to the user  
+- `prompt`: Mensagem a ser exibida para o usuário
 
-return value:
+valor de retorno:
 
-- string value containing value entered by user
+- valor da sequência que contém o valor inserido pelo usuário
