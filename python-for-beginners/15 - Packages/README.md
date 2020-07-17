@@ -1,30 +1,30 @@
-# Packages and modules
+# Pacotes e módulos
 
-## Modules
+## Módulos
 
-[Modules](https://docs.python.org/3/tutorial/modules.html) allow you to store reusable blocks of code, such as functions, in separate files. They're referenced by using the `import` statement.
+[Módulos](https://docs.python.org/3/tutorial/modules.html) permitem armazenar blocos de código reutilizáveis, como funções, em arquivos separados. Eles são referenciados usando a instrução `import`.
 
 ``` python
-# import module as namespace
+# módulo de importação como espaço para nome
 import helpers
-helpers.display('Not a warning')
+helpers.display('Não é um aviso')
 
-# import all into current namespace
+# importar tudo para o namespace atual
 from helpers import *
-display('Not a warning')
+display('Não é um aviso')
 
-# import specific items into current namespace
+# importar itens específicos para o namespace atual
 from helpers import display
-display('Not a warning')
+display('Não é um aviso')
 ```
 
-## Packages
+## Pacotes
 
-[Distribution packages](https://packaging.python.org/glossary/#term-distribution-package) are external archive files which contain resources such as classes and functions. Most every application you create will make use of one or more packages. Imports from packages follow the same syntax as modules you've created. The [Python Package index](https://pypi.org/) contains a full list of packages you can install using [pip](https://pip.pypa.io/en/stable/).
+[Distribuição de pacotes](https://packaging.python.org/glossary/#term-distribution-package) são arquivos externos que contêm recursos como classes e funções. Quase todos os aplicativos que você cria usam um ou mais pacotes. As importações de pacotes seguem a mesma sintaxe que os módulos que você criou. O [Python Package index](https://pypi.org/) contém uma lista completa de pacotes que você pode instalar usando [pip](https://pip.pypa.io/en/stable/).
 
-## Virtual environments
+## Ambientes virtuais
 
-[Virtual environments](https://docs.python.org/3.7/tutorial/venv.html) allow you to install packages into an isolated folder. This allows you to better manage versions.
+[Ambientes virtuais](https://docs.python.org/3.7/tutorial/venv.html) permitem instalar pacotes em uma pasta isolada. Isso permite que você gerencie melhor as versões.
 
 ``` console
 

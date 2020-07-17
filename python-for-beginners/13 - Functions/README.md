@@ -1,11 +1,11 @@
-# Functions
+# Funções
 
-Functions allow you to take code that is repeated and move it to a module that can be called when needed. Functions are defined with the `def` keyword and must be declared before the function is called in your code. Functions can accept parameters and return values.
+As funções permitem pegar o código repetido e movê-lo para um módulo que pode ser chamado quando necessário. As funções são definidas com a palavra-chave `def` e deve ser declarado antes que a função seja chamada no seu código. As funções podem aceitar parâmetros e retornar valores.
 
-- [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+- [Funções](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 
 ```python
 def functionname(parameter):
-    # code to execute
+    # código para executar
     return value
 ```

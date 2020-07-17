@@ -1,8 +1,8 @@
-# Loops
+# Laços de Repetição
 
-## For loops
+## Laço de repetição For
 
-[For loops](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement) takes each item in an array or collection in order, and assigns it to the variable you define.
+Um laço de repetição [For](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement) pega cada item em uma matriz ou coleção em ordem e o atribui à variável que você define.
 
 ``` python
 names = ['Christopher', 'Susan']
@@ -10,9 +10,9 @@ for name in names:
     print(name)
 ```
 
-## While loops
+## Laço de repetição While
 
-[While loops](https://docs.python.org/3/reference/compound_stmts.html#the-while-statement) perform an operation as long as a condition is true.
+Um laço de repetição [While](https://docs.python.org/3/reference/compound_stmts.html#the-while-statement) execute uma operação desde que uma condição seja verdadeira.
 
 ``` python
 names = ['Christopher', 'Susan']

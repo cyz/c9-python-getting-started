@@ -1,33 +1,34 @@
-# Function parameters
+# Parâmetros de funções
 
-Functions allow you to take code that is repeated and move it to a module that can be called when needed. Functions are defined with the `def` keyword and must be declared before the function is called in your code. Functions can accept one or more parameters and return values.
+As funções permitem pegar o código repetido e movê-lo para um módulo que pode ser chamado quando necessário. As funções são definidas com a palavra-chave `def` e devem ser declaradas antes que a função seja chamada no seu código. As funções podem aceitar um ou mais parâmetros e retornar valores.
 
-- [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+- [Funções](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 
 ```python
 def function_name(parameter):
-    # code to execute
+    # código para executar
     return value
 ```
 
-Parameters can be assigned a [default value](https://docs.python.org/3/tutorial/controlflow.html#default-argument-values) making them optional when the function is called.
+É possível atribuir aos parâmetros um [default value](https://docs.python.org/3/tutorial/controlflow.html#default-argument-values), tornando-os opcionais quando a função é chamada.
 
 ```python
 def function_name(parameter=default):
-    # code to execute
+    # código para executar
     return value
 ```
 
-When you call a function you may specify the values for the parameters using positional or [named notation](https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments)
+Ao chamar uma função, você pode especificar os valores para os parâmetros usando posição ou [nomeação nomeada](https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments)
+
 
 ```python
 def function_name(parameter1, parameter2):
-    # code to execute
+    # código para executar
     return value
 
-# Positional notation pass in arguments in same order as parameters are declared
+# A notação posicional passa nos argumentos na mesma ordem em que os parâmetros são declarados
 result = function_name(value1,value2)
 
-# Named notation
+# Notação nomeada
 result = function_name(parameter1=value1, parameter2=value2)
 ```

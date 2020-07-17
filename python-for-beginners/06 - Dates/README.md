@@ -1,18 +1,18 @@
-# Date values
+# Valores de data
 
-The [datetime module](https://docs.python.org/3/library/datetime.html) contains a number of classes for manipulating dates and times.
+O [datetime module](https://docs.python.org/3/library/datetime.html) contém várias classes para manipular datas e horas.
 
-Date and time types:
+Tipos de data e hora:
 
-- `date` stores year, month, and day
-- `time` stores hour, minute, and second
-- `datetime` stores year, month, day, hour, minute, and second
-- `timedelta` a duration of time between two dates, times, or datetimes
+- `date` armazena ano, mês e dia
+- `time` armazena hora, minuto e segundo
+- `datetime` armazena ano, mês, dia, hora, minuto e segundo
+- `timedelta` uma duração de tempo entre duas datas, horas ou datas
 
-When naming variables follow the PEP-8 Style Guide for Python Code
+Ao nomear variáveis, siga o Guia de Estilo PEP-8 para Código Python
 
 - [PEP-8 Style Guide](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
 
-Converting from string to datetime
+Convertendo de string para datetime
 
 - [strptime](https://docs.python.org/2/library/datetime.html#strftime-and-strptime-behavior)

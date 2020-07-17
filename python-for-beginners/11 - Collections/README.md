@@ -1,14 +1,15 @@
-# Collections
+# Collections (Coleções)
 
-Collections are groups of items. Python supports several types of collections. Three of the most common are dictionaries, lists and arrays.
+Coleções são grupos de itens. O Python suporta vários tipos de coleções. Três dos mais comuns são dicionários, listas e matrizes.
 
-## Lists
+## Listas
 
-[Lists](https://docs.python.org/3/tutorial/introduction.html#lists) are a collection of items. Lists can be expanded or contracted as needed, and can contain any data type. Lists are most commonly used to store a single column collection of information, however it is possible to [nest lists](https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions)
+[Listas](https://docs.python.org/3/tutorial/introduction.html#lists) são uma coleção de itens. As listas podem ser expandidas ou contratadas conforme necessário e podem conter qualquer tipo de dados. As listas são mais comumente usadas para armazenar uma única coluna de informações, mas é possível [aninhar listas](https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions).
+
 ## Arrays
 
-[Arrays](https://docs.python.org/3/library/array.html) are similar to lists, however are designed to store a uniform basic data type, such as integers or floating point numbers.
+[Arrays](https://docs.python.org/3/library/array.html) são semelhantes às listas, no entanto, foram projetadas para armazenar um tipo de dados básico uniforme, como números inteiros ou números de ponto flutuante.
 
-## Dictionaries
+## Dicionários
 
-[Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) are key/value pairs of a collection of items. Unlike a list where items can only be accessed by their index or value, dictionaries use keys to identify each item.
+[Dicionários](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) são pares de chave / valor de uma coleção de itens. Ao contrário de uma lista em que os itens só podem ser acessados por seu índice ou valor, os dicionários usam chaves para identificar cada item.

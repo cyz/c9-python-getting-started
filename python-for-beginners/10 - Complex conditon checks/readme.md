@@ -1,31 +1,32 @@
-# Complex condition checks
+# Verificações de condições complexas
 
-Conditional execution can be completed using the [if](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement) statement.
+A execução condicional pode ser concluída usando a condicional [if](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement). 
 
 `if` syntax
 
 ```python
 if expression:
-    # code to execute
+    # código para executar
 elif expression:
-    # code to execute
+    # código para executar
 else:
-    # code to execute
+    # código para executar
 ```
 
-[Boolean values](https://docs.python.org/3/library/stdtypes.html#boolean-values) can be either `False` or `True`
+[Valores booleanos](https://docs.python.org/3/library/stdtypes.html#boolean-values) podem ser `False` ou `True`
 
-[Boolean operators](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
+[Operadores Booleanos](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
 
-- **x *or* y** - If either x **OR** y is true, the expression is executed
-- **x *and* y** - If x **AND** y are both true, the expression is executed
+- **x *or* y** - Se x OU y for verdadeiro, a expressão é executada
+- **x *and* y** - Se x **E** y são verdadeiros, a expressão é executada
 
-[Comparison operators](https://docs.python.org/3/library/stdtypes.html#comparisons)
 
-- < less than
-- < greater than
-- == is equal to
-- \>= greater than or equal to
-- <= less than or equal to
-- != not equal to
-- **x *in* [a,b,c]** Does x match the value of a, b, or c
+[Operadores de Comparação](https://docs.python.org/3/library/stdtypes.html#comparisons)
+
+- < menor que
+- < maior que
+- == é igual a
+- \> = maior ou igual a
+- <= menor ou igual a
+-! = não é igual a
+- **x *in* [a,b,c]** X corresponde ao valor de a, b ou c

@@ -1,10 +1,10 @@
 # Decorators
 
-[Decorators](https://www.python.org/dev/peps/pep-0318/) are similar to attributes in that they add meaning or functionality to blocks of code in Python. They're frequently used in frameworks such as [Flask](http://flask.pocoo.org/) or [Django](https://www.djangoproject.com/). The most common interaction you'll have with decorators as a Python developer is through using them rather than creating them.
+[Decorators](https://www.python.org/dev/peps/pep-0318/) são semelhantes aos atributos, pois adicionam significado ou funcionalidade aos blocos de código no Python. Eles são freqüentemente usados em estruturas como [Flask](http://flask.pocoo.org/) ou [Django](https://www.djangoproject.com/). A interação mais comum que você terá com os decoradores como desenvolvedor de Python é usando-os em vez de criá-los.
 
 ``` python
-# Example decorator
+# Exemplo de Decorator
 @log(True)
 def sample_function():
-    print('this is a sample function')
+    print('esta é uma função de amostra')
 ```
