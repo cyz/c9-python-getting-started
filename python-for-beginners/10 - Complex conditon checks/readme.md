@@ -1,4 +1,4 @@
-# Verificações de condições complexas
+# Validação de condições complexas
 
 A execução condicional pode ser concluída usando a condicional [if](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement). 
 

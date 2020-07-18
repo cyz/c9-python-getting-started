@@ -1,4 +1,4 @@
-# Manipulação de condicionais
+# Manipulação de múltiplas condicionais
 
 A execução condicional pode ser concluída usando a condicional [if](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement). Adicionando o `elif`, podemos verificar várias condições
 
@@ -19,7 +19,7 @@ else:
 
 [Operadores de Comparação](https://docs.python.org/3/library/stdtypes.html#comparisons)
 
-- < menor que
+- > menor que
 - < maior que
 - == é igual a
 - \> = maior ou igual a
